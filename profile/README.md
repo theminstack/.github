@@ -1,3 +1,3 @@
-# minstack
+# Minimal tooling for web development.
 
-Minimal tooling for web development.
+Check out the [homepage](https://minstack.rocks) for more information.
