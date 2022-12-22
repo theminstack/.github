@@ -1,0 +1,4 @@
+- **Simple:** Minimal and opinionated APIs and feature sets.
+- **Small:** Zero dependencies and smaller bundles than most alternatives.
+- **Fast:** Optimization through simplicity.
+- **Typed:** Written in Typescript. Designed for Typescript.
